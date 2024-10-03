@@ -8,7 +8,7 @@ def create_connection():
             host='localhost',       
             database='Library_management_system',  
             user='root',            
-            password='pE25+tERNjuku',
+            password='yourpassword',
             port= 3306
         )
         print("Connection with MySQL is successful")
